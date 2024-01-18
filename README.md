@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jakespillstea
-- 👀 I’m interested in GNU/Linux
-- 🌱 I’m currently learning the CompTIA A+ certification
-- 💞️ I’m looking to collaborate on ... ¯\\_(ツ)_/¯ 
-- 📫 How to reach me ... I'm reachable on twitter @jakespillstea
+- 👀 I’m interested in GNU/Linux, FreeBSD, and evrrything else UNIX
+- 🌱 I’m currently learning 3D printing and virtual reality
+- 💞️ I’m looking to collaborate on developing software for microcontrollers
+- 📫 How to reach me ... I'm reachable on Discord @jakespillstea
 
 <!---
 jakespillstea/jakespillstea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
